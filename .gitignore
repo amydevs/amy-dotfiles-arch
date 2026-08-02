@@ -2,6 +2,10 @@
 
 !.gitignore
 !.xinitrc
+!.bashrc
+!.bash_profile
+!.zshrc
+!.profile
 
 !git/
 !git/suckless/
