@@ -5,7 +5,10 @@
 
 !git/
 !git/suckless/
+!git/suckless/dwm
 !git/suckless/dwmblocks
+!git/suckless/slock
+!git/suckless/st
 
 !.config/
 !.config/starship/

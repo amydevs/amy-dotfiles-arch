@@ -1,3 +1,12 @@
 [submodule "git/suckless/dwmblocks"]
 	path = git/suckless/dwmblocks
 	url = git@github.com:amydevs/dwmblocks.git
+[submodule "git/suckless/dwm"]
+	path = git/suckless/dwm
+	url = git@github.com:amydevs/dwm.git
+[submodule "git/suckless/st"]
+	path = git/suckless/st
+	url = git@github.com:amydevs/st.git
+[submodule "git/suckless/slock"]
+	path = git/suckless/slock
+	url = git@github.com:amydevs/slock.git
