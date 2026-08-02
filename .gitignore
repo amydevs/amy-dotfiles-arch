@@ -21,3 +21,5 @@
 !.config/sxhkd/**
 !.config/neofetch/
 !.config/neofetch/**
+!.config/gtk-*.0/
+!.config/gtk-*.0/**
