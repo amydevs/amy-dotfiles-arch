@@ -9,4 +9,5 @@ alias ls='ls --color=auto'
 PS1='[\u@\h \W]\$ '
 
 # Extra
+[[ -f ~/.profile ]] && . ~/.profile
 eval "$(starship init bash)"
