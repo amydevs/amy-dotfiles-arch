@@ -5,7 +5,7 @@
 
 !git/
 !git/suckless/
-!git/suckless/dwmblocks/
+!git/suckless/dwmblocks
 
 !.config/
 !.config/starship/
