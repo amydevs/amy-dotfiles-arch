@@ -25,9 +25,3 @@
 !.config/neofetch/**
 !.config/gtk-*.0/
 !.config/gtk-*.0/**
-
-!.mozilla/
-!.mozilla/firefox/
-!.mozilla/firefox/*/
-!.mozilla/firefox/*/chrome/
-!.mozilla/firefox/*/chrome/**
