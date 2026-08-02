@@ -1,0 +1,20 @@
+# Volume
+XF86AudioRaiseVolume
+    pactl set-sink-volume "$(pactl get-default-sink)" +5%
+XF86AudioLowerVolume
+    pactl set-sink-volume "$(pactl get-default-sink)" -5%
+XF86AudioMute
+    pactl set-sink-mute "$(pactl get-default-sink)" toggle
+
+# Backlight
+XF86MonBrightnessUp
+    light -A 5
+
+XF86MonBrightnessDown
+    light -U 5
+
+Print
+    maim | xclip -selection clipboard -t image/png
+
+mod1 + Print
+    maim -s | xclip -selection clipboard -t image/png

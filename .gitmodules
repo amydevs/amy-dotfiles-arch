@@ -1,0 +1,3 @@
+[submodule "git/suckless/dwmblocks"]
+	path = git/suckless/dwmblocks
+	url = git@github.com:amydevs/dwmblocks.git

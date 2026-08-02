@@ -1,0 +1,16 @@
+*
+
+!.gitignore
+!.xinitrc
+
+!git/
+!git/suckless/
+!git/suckless/dwmblocks/
+
+!.config/
+!.config/starship/
+!.config/starship/**
+!.config/sxhkd/
+!.config/sxhkd/**
+!.config/neofetch/
+!.config/neofetch/**
